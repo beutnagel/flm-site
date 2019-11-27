@@ -1,0 +1,24 @@
+.main_menu {
+    background-color: #d6b12d;
+}
+
+.main_menu ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.main_menu__item {
+    display: inline-block;
+    min-height: 3em;
+}
+
+.main_menu__item a {
+    display: inline-block;
+    font-size: 2rem;
+    text-decoration: none;
+    padding: 1rem;
+}
+
+.main_menu a:hover {
+    color: white;
+}
